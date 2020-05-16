@@ -1,0 +1,15 @@
+{
+  "name": "@yogendra/human",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing done from HUMAN\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@yogendra/animal": "^1.0.0"
+  }
+}

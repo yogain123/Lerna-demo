@@ -1,0 +1,14 @@
+{
+  "name": "lerna-demo",
+  "version": "1.0.0",
+  "description": "managing monorepo using lerna",
+  "main": "index.js",
+  "scripts": {
+    "test": "lerna run test"
+  },
+  "author": "yogendra saxena",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.21.0"
+  }
+}
