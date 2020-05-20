@@ -1,7 +1,7 @@
 {
   "name": "lerna-demo",
   "version": "1.0.0",
-  "description": "managing monorepo using lerna",
+  "description": "managing monorepo using using lerna",
   "main": "index.js",
   "scripts": {
     "test": "lerna run test"
